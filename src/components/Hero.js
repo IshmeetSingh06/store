@@ -13,8 +13,9 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure
-          quasi odit tenetur unde officiis repudiandae quod deserunt quia eum?
+          Bored with current look of your furniture? want something
+          more asthetic looking? Step up your furniture game with our latest 
+          and most innovative desgins with upto 40% off on each group buy. 
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now

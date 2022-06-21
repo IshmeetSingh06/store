@@ -12,9 +12,8 @@ const Services = () => {
             built only for you
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-            quisquam saepe id reiciendis sunt, repudiandae libero amet rem quia
-            quod?
+            We not only provide prebuilt furniture , with us you can build your dream
+            table,bed anthing you always wanted with few simple clicks.
           </p>
         </article>
         <div className='services-center'>

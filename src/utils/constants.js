@@ -24,21 +24,21 @@ export const services = [
     icon: <GiCompass />,
     title: 'mission',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      'Our Mission is to provide quality products to choose from our large selection of items and providing the best customer experience for the buyer.',
   },
   {
     id: 2,
     icon: <GiDiamondHard />,
     title: 'vision',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      'As nowdays most of the stuff people buy seem similar to one another what we envision our stuff to be is fresh and not seen before while provding the top tier quality.',
   },
   {
     id: 3,
     icon: <GiStabbedNote />,
     title: 'history',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      'We Are established since 2012 and have been fulfilling the demands of people across from various countries and reigons for over a decade now.',
   },
 ]
 
